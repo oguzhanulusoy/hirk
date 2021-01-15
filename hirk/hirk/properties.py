@@ -1,0 +1,4 @@
+user_0001 = "{} adli kullanici basarili giris yapti"
+user_0002 = "{} adli kullanici zaten giris yapmis"
+user_0003 = "{} boyle bir kullanici bulunamadi"
+user_0004 = "{} adli kullanici cikis yapti"
