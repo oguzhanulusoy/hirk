@@ -27,3 +27,7 @@ def logout(request):
     logout(request)
     logging.info(user_error_0004.format(request.user.username))
     return redirect('/logon')
+
+
+def forgot_password(request):
+    return None

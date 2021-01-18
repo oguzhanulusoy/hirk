@@ -270,3 +270,235 @@ TypeError: login() missing 1 required positional argument: 'user'
 2021-01-18 19:57:12,116 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
 2021-01-18 19:58:39,864 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
 2021-01-18 19:59:29,481 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 20:16:25,345 - WARNING - Not Found: /user/logon
+2021-01-18 20:16:29,940 - ERROR - Internal Server Error: /user/login/
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/views.py", line 23, in login_view
+    return render(request, url, context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/urls/base.py", line 87, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/urls/resolvers.py", line 685, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+2021-01-18 20:16:40,142 - ERROR - Internal Server Error: /user/login/
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/views.py", line 23, in login_view
+    return render(request, url, context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/urls/base.py", line 87, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/urls/resolvers.py", line 685, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+2021-01-18 20:17:10,059 - ERROR - Internal Server Error: /user/login/
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/views.py", line 23, in login_view
+    return render(request, url, context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/urls/base.py", line 87, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/urls/resolvers.py", line 685, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+2021-01-18 20:19:57,606 - ERROR - Internal Server Error: /user/login/
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/views.py", line 23, in login_view
+    return render(request, url, context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/urls/base.py", line 87, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/urls/resolvers.py", line 685, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+2021-01-18 20:20:15,440 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 20:20:25,908 - ERROR - Internal Server Error: /user/login/
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/views.py", line 23, in login_view
+    return render(request, url, context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/template/defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/urls/base.py", line 87, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/urls/resolvers.py", line 685, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+2021-01-18 20:22:06,172 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 20:22:16,767 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 20:22:25,973 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 20:22:36,170 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 20:23:05,142 - WARNING - Not Found: /user/forgot_password
+2021-01-18 20:23:33,591 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 20:23:43,046 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 20:23:51,260 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 20:23:53,885 - WARNING - Not Found: /user/forgot_password
+2021-01-18 20:23:55,476 - WARNING - Not Found: /user/forgot_password
+2021-01-18 20:24:23,218 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 20:24:31,547 - ERROR - None boyle bir kullanici bulunamadi
+2021-01-18 20:24:31,584 - WARNING - Not Found: /error
+2021-01-18 20:25:20,854 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 20:25:43,599 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/properties.py changed, reloading.
