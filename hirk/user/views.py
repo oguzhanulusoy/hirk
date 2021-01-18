@@ -23,7 +23,14 @@ def login_view(request):
     return render(request, url, context)
 
 
+@login_required()
 def forgot_password_view(request):
-    url = template_dir + 'forgot_password.html'
-
-    return HttpResponse("hello")
+    url = template_dir + 'forgot-password.html'
+    context = {"user_message_0001": user_message_0001,
+               "user_message_0005": user_message_0005,
+               "user_message_0006": user_message_0006,
+               "user_message_0007": user_message_0007,
+               "user_message_0003": user_message_0003,
+               "user_message_0008": user_message_0008
+               }
+    return render(request, url, context)
