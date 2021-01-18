@@ -1,2 +1,272 @@
 2021-01-18 17:35:43,314 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
 2021-01-18 17:36:10,145 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 17:51:56,632 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 17:51:59,981 - WARNING - Not Found: /user/testim/assets/img/favicon.png
+2021-01-18 17:57:37,700 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/settings.py changed, reloading.
+2021-01-18 18:01:34,338 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/settings.py changed, reloading.
+2021-01-18 18:06:28,145 - WARNING - Not Found: /user/testim/static/assets/css/style.css
+2021-01-18 18:06:28,160 - WARNING - Not Found: /user/testim/static/assets/css/bootstrap.min.css
+2021-01-18 18:06:28,163 - WARNING - Not Found: /user/testim/static/assets/css/font-awesome.min.css
+2021-01-18 18:06:29,509 - WARNING - Not Found: /user/testim/static/assets/css/bootstrap.min.css
+2021-01-18 18:06:29,535 - WARNING - Not Found: /user/testim/static/assets/css/style.css
+2021-01-18 18:06:29,549 - WARNING - Not Found: /user/testim/static/assets/css/font-awesome.min.css
+2021-01-18 18:10:23,119 - WARNING - Not Found: /assets/css/font-awesome.min.css
+2021-01-18 18:10:23,129 - WARNING - Not Found: /assets/css/bootstrap.min.css
+2021-01-18 18:10:23,134 - WARNING - Not Found: /assets/js/jquery-3.2.1.min.js
+2021-01-18 18:10:23,139 - WARNING - Not Found: /assets/css/style.css
+2021-01-18 18:10:23,180 - WARNING - Not Found: /assets/js/app.js
+2021-01-18 18:10:23,206 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:10:23,210 - WARNING - Not Found: /assets/js/bootstrap.min.js
+2021-01-18 18:10:23,215 - WARNING - Not Found: /assets/js/popper.min.js
+2021-01-18 18:10:23,317 - WARNING - Not Found: /assets/js/bootstrap.min.js
+2021-01-18 18:10:23,349 - WARNING - Not Found: /assets/js/app.js
+2021-01-18 18:12:07,034 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:12:11,354 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:12:11,662 - WARNING - Not Found: /user/testim/assets/img/favicon.png
+2021-01-18 18:12:20,657 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:12:21,295 - WARNING - Not Found: /user/testim/assets/img/favicon.png
+2021-01-18 18:13:29,946 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/urls.py changed, reloading.
+2021-01-18 18:13:42,913 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/urls.py changed, reloading.
+2021-01-18 18:14:10,422 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:15:32,862 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:16:23,529 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:16:24,640 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:16:50,541 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:16:51,117 - WARNING - Not Found: /user/testim/assets/img/favicon.png
+2021-01-18 18:17:08,954 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:23:58,257 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:24:50,025 - WARNING - Not Found: /css/bootstrap.min.css
+2021-01-18 18:25:19,253 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/settings.py changed, reloading.
+2021-01-18 18:26:25,520 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:27:07,722 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 18:27:11,006 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:27:13,142 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:29:30,432 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/settings.py changed, reloading.
+2021-01-18 18:29:34,719 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:30:37,505 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/settings.py changed, reloading.
+2021-01-18 18:30:45,819 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/settings.py changed, reloading.
+2021-01-18 18:31:37,973 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/settings.py changed, reloading.
+2021-01-18 18:31:42,213 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:32:04,058 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/settings.py changed, reloading.
+2021-01-18 18:32:07,050 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/settings.py changed, reloading.
+2021-01-18 18:34:13,123 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:34:28,430 - WARNING - Not Found: //static/css/font-awesome.min.css
+2021-01-18 18:34:28,649 - WARNING - Not Found: /favicon.ico
+2021-01-18 18:35:03,451 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/urls.py changed, reloading.
+2021-01-18 18:35:17,807 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 18:38:34,122 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:41:14,644 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/settings.py changed, reloading.
+2021-01-18 18:41:47,627 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/settings.py changed, reloading.
+2021-01-18 18:42:10,045 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/settings.py changed, reloading.
+2021-01-18 18:42:45,331 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 18:42:48,998 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/urls.py changed, reloading.
+2021-01-18 18:45:24,061 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:46:55,359 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 18:46:59,918 - WARNING - Not Found: /assets/img/logo.png
+2021-01-18 18:58:30,023 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/hirk/properties.py changed, reloading.
+2021-01-18 19:03:18,373 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 19:03:45,172 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 19:04:15,789 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 19:09:26,869 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 19:09:47,777 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 19:12:44,784 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 19:13:00,367 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 19:13:30,005 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 19:13:42,229 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 19:13:44,352 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 19:13:46,388 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 19:13:58,626 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 19:14:06,933 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 19:15:00,632 - WARNING - Not Found: /user/testim/
+2021-01-18 19:15:06,941 - WARNING - Not Found: /services/login
+2021-01-18 19:17:46,070 - WARNING - Not Found: /services/login
+2021-01-18 19:18:13,480 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 19:18:34,439 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 19:18:47,304 - WARNING - Not Found: /services/login
+2021-01-18 19:19:29,489 - WARNING - Not Found: /user/login/user/services/login
+2021-01-18 19:20:00,339 - WARNING - Forbidden (CSRF token missing or incorrect.): /user/services/login
+2021-01-18 19:20:39,651 - ERROR - Internal Server Error: /user/services/login
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/utils/datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'username'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/services.py", line 9, in login
+    username = request.POST['username']
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/utils/datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'username'
+2021-01-18 19:22:20,895 - ERROR - Internal Server Error: /user/services/login
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/utils/datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'username'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/services.py", line 9, in login
+    username = request.POST['username']
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/utils/datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'username'
+2021-01-18 19:22:35,301 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:22:45,037 - ERROR - Internal Server Error: /user/services/login
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/services.py", line 9, in login
+    username = request.POST.get['username']
+TypeError: 'method' object is not subscriptable
+2021-01-18 19:23:03,548 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:23:11,233 - ERROR - Internal Server Error: /user/services/login
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/services.py", line 10, in login
+    username = request.POST.get['username']
+TypeError: 'method' object is not subscriptable
+2021-01-18 19:30:13,059 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:30:23,539 - ERROR - sysadm adli kullanici zaten giris yapmis
+2021-01-18 19:30:23,579 - WARNING - Not Found: /
+2021-01-18 19:30:49,045 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:31:15,899 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:31:29,355 - ERROR - sysadm adli kullanici zaten giris yapmis
+2021-01-18 19:31:29,398 - WARNING - Not Found: /
+2021-01-18 19:32:00,446 - ERROR - sysadm adli kullanici zaten giris yapmis
+2021-01-18 19:32:00,470 - WARNING - Not Found: /
+2021-01-18 19:33:55,572 - WARNING - Not Found: /
+2021-01-18 19:34:07,945 - ERROR - sysadm adli kullanici zaten giris yapmis
+2021-01-18 19:34:07,999 - WARNING - Not Found: /
+2021-01-18 19:35:12,323 - ERROR - sysadm adli kullanici zaten giris yapmis
+2021-01-18 19:35:12,350 - WARNING - Not Found: /
+2021-01-18 19:37:05,922 - WARNING - Not Found: /
+2021-01-18 19:38:37,356 - ERROR - sysadm adli kullanici zaten giris yapmis
+2021-01-18 19:38:37,400 - WARNING - Not Found: /
+2021-01-18 19:39:13,503 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:39:16,272 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:40:04,593 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:40:42,875 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:41:07,393 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:41:19,385 - ERROR - Internal Server Error: /user/services/login
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/services.py", line 13, in login
+    login(request, user)
+TypeError: login() takes 1 positional argument but 2 were given
+2021-01-18 19:41:39,002 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:41:47,552 - ERROR - Internal Server Error: /user/services/login
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/services.py", line 13, in login
+    login(user)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/services.py", line 9, in login
+    username = request.POST.get('username')
+AttributeError: 'User' object has no attribute 'POST'
+2021-01-18 19:42:48,368 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:43:00,917 - ERROR - Internal Server Error: /user/services/login
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/services.py", line 13, in login
+    login(request, user)
+TypeError: login() takes 1 positional argument but 2 were given
+2021-01-18 19:43:32,957 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:43:42,400 - ERROR - Internal Server Error: /user/services/login
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/oppenheimer/GitHub/hirk/hirk/user/services.py", line 13, in login
+    login(request, user)
+TypeError: login() takes 1 positional argument but 2 were given
+2021-01-18 19:45:06,198 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:45:11,787 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:45:18,041 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 19:45:39,259 - ERROR - Internal Server Error: /user/services/logon
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: login() missing 1 required positional argument: 'user'
+2021-01-18 19:47:02,099 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 19:47:20,346 - ERROR - Internal Server Error: /user/services/logon
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: login() missing 1 required positional argument: 'user'
+2021-01-18 19:48:44,902 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:48:53,386 - ERROR - Internal Server Error: /user/services/logon
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: login() missing 1 required positional argument: 'user'
+2021-01-18 19:49:05,710 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:49:11,453 - ERROR - Internal Server Error: /user/services/logon
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: login() missing 1 required positional argument: 'user'
+2021-01-18 19:49:40,743 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 19:49:46,638 - ERROR - Internal Server Error: /user/services/logon
+Traceback (most recent call last):
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/oppenheimer/GitHub/django-training/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: login() missing 1 required positional argument: 'user'
+2021-01-18 19:49:52,656 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 19:50:11,091 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:50:35,610 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:50:41,337 - WARNING - Not Found: /user/services/logon
+2021-01-18 19:50:56,068 - WARNING - Not Found: /user/services/logon
+2021-01-18 19:51:28,249 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:51:54,037 - WARNING - Not Found: /
+2021-01-18 19:52:02,637 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:52:22,453 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:52:26,473 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 19:52:55,286 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 19:53:00,780 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 19:53:36,629 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:53:51,614 - WARNING - Not Found: /
+2021-01-18 19:55:02,556 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:55:25,712 - ERROR - sysadm adli kullanici zaten giris yapmis
+2021-01-18 19:55:25,765 - WARNING - Not Found: /error
+2021-01-18 19:55:41,920 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:56:17,621 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:56:22,014 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:56:48,495 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
+2021-01-18 19:57:12,116 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.
+2021-01-18 19:58:39,864 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
+2021-01-18 19:59:29,481 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/views.py changed, reloading.
