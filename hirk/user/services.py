@@ -1,6 +1,8 @@
 from django.contrib.auth import authenticate, login
+from django.contrib.auth.models import User
 from django.shortcuts import redirect
 from .properties import *
+from django.core.mail import send_mail
 
 import logging
 
@@ -30,4 +32,14 @@ def logout(request):
 
 
 def forgot_password(request):
+    email = request.POST.get('email')
+    user = User.objects.get(email=email)
+
+    send_mail(
+        'Subject here',
+        'Here is the message.',
+        'from@example.com',
+        ['to@example.com'],
+        fail_silently=False,
+    )
     return None
