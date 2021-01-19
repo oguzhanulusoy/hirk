@@ -502,3 +502,4 @@ django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a val
 2021-01-18 20:24:31,584 - WARNING - Not Found: /error
 2021-01-18 20:25:20,854 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/urls.py changed, reloading.
 2021-01-18 20:25:43,599 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/properties.py changed, reloading.
+2021-01-18 20:29:11,167 - INFO - /Users/oppenheimer/GitHub/hirk/hirk/user/services.py changed, reloading.

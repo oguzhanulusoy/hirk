@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+{% block body %}
+<body class="account-page">
+<div class="main-wrapper">
+    <div class="account-content">
+        <div class="container">
+            <div class="account-box">
+                <div class="account-wrapper">
+                    <h3 class="account-title">{{ user_message_0001 }}</h3>
+                    <p class="account-subtitle">{{ user_message_0002 }}</p>
+                    <form role="form" action="{% url 'logon_service' %}" method="POST">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label>{{ user_message_0003 }}</label>
+                            <input class="form-control" type="text" id="username" name="username"
+                                   placeholder="username">
+                        </div>
+                        <div class="form-group">
+                            <div class="row">
+                                <div class="col">
+                                    <label>{{ user_message_0004 }}</label>
+                                </div>
+                                <div class="col-auto">
+                                    <a class="text-muted" href="forgot-password.html">
+                                        {{ user_message_0005 }}
+                                    </a>
+                                </div>
+                            </div>
+                            <input class="form-control" type="password" id="password" name="password"
+                                   placeholder="password">
+                        </div>
+                        <div class="form-group text-center">
+                            <button class="btn btn-primary account-btn" type="submit">{{ user_message_0001 }}</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+{% endblock %}
