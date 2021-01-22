@@ -1,0 +1,9 @@
+
+ijavascript:S2589”<"LRefactor this code so that this expression does not always evaluate to true.(Ÿ¿Ã½
+['javascript:FunctionDefinitionInsideLoop­:"'Define this function outside of a loop.(†‡µ±
+>javascript:S1116Õ"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+Jjavascript:EmptyBlockí")Either remove or fill this block of code.(ô÷‹`
+Kjavascript:EmptyBlockƒ")Either remove or fill this block of code.(çÛ£ï
+Yjavascript:S1854ë"7Remove this useless assignment to local variable "name"(ÅàÉ¿ýÿÿÿÿ
+Mjavascript:S1264ê"+Replace this "for" loop with a "while" loop(ÒöÁþøÿÿÿÿ
+Hjavascript:S1264ò"+Replace this "for" loop with a "while" loop(ïž¾Ü

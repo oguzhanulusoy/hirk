@@ -8,7 +8,7 @@
                 <div class="account-wrapper">
                     <h3 class="account-title">{{ user_message_0001 }}</h3>
                     <p class="account-subtitle">{{ user_message_0002 }}</p>
-                    <form role="form" action="{% url 'logon_service' %}" method="POST">
+                    <form role="form" action="{% url 'signin_service' %}" method="POST">
                         {% csrf_token %}
                         <div class="form-group">
                             <label>{{ user_message_0003 }}</label>

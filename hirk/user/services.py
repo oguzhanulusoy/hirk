@@ -1,4 +1,6 @@
-from django.contrib.auth import authenticate, login
+import smtplib
+
+from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.models import User
 from django.shortcuts import redirect
 from .properties import *
@@ -9,7 +11,7 @@ import logging
 logging.basicConfig(filename='user_app.log', format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def logon(request):
+def signin(request):
     username = request.POST.get('username')
     password = request.POST.get('password')
     user = authenticate(request, username=username, password=password)
@@ -25,7 +27,7 @@ def logon(request):
     return None
 
 
-def logout(request):
+def signout(request):
     logout(request)
     logging.info(user_error_0004.format(request.user.username))
     return redirect('/logon')
@@ -38,8 +40,8 @@ def forgot_password(request):
     send_mail(
         'Subject here',
         'Here is the message.',
-        'from@example.com',
-        ['to@example.com'],
+        'ulusoiozi@gmail.com',
+        ['ulusoyoguzhan@gmail.com'],
         fail_silently=False,
     )
     return None
