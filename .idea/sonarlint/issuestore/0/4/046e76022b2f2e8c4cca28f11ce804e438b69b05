@@ -1,0 +1,17 @@
+
+Ajavascript:S1442e" Remove this usage of alert(...).(¤ŒÛÎùÿÿÿÿ
+Cjavascript:S878Æ""Remove use of this comma operator.(ƒ¤İşÿÿÿÿ
+Pjavascript:S878"5Remove use of all comma operators in this expression.(ª¨Ú¹
+Ujavascript:S878$"5Remove use of all comma operators in this expression.(×¢©Üşÿÿÿÿ
+Vjavascript:S878Á"5Remove use of all comma operators in this expression.(×¢©Üşÿÿÿÿ
+[javascript:UnusedVariable†"5Remove the declaration of the unused 'form' variable.(ƒ£ñÔ
+\javascript:UnusedVariableX"7Remove the declaration of the unused 'ending' variable.(ÕóñÜ
+Xjavascript:UnusedVariableƒ"2Remove the declaration of the unused 'd' variable.(Ÿ¶Ò•
+Xjavascript:UnusedVariable…"2Remove the declaration of the unused 'y' variable.(§‰ûî
+_javascript:UnusedVariableW":Remove the declaration of the unused 'beginning' variable.(¬Ü±œ
+]javascript:UnusedVariable„"2Remove the declaration of the unused 'm' variable.(ı€»Ïşÿÿÿÿ
+Xjavascript:S1854W"<Remove this useless assignment to local variable "beginning"(¬Ü±œ
+Ujavascript:S1854X"9Remove this useless assignment to local variable "ending"(ÕóñÜ
+Qjavascript:S1854…"4Remove this useless assignment to local variable "y"(§‰ûî
+Vjavascript:S1854„"4Remove this useless assignment to local variable "m"(ı€»Ïşÿÿÿÿ
+Qjavascript:S1854ƒ"4Remove this useless assignment to local variable "d"(Ÿ¶Ò•

@@ -12,7 +12,7 @@ template_dir = 'user/'
 logging.basicConfig(filename='user_app.log', format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def login_view(request):
+def signin_view(request):
     url = template_dir + 'login.html'
     context = {"user_message_0001": user_message_0001,
                "user_message_0002": user_message_0002,

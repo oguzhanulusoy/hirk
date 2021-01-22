@@ -1,0 +1,12 @@
+
+cjavascript:S2259Ğ"FTypeError can be thrown as "callback" might be null or undefined here.(Ì€—Ä
+cjavascript:S2259ü4"FTypeError can be thrown as "instance" might be null or undefined here.(úõ«ü
+ijavascript:S2589†"LRefactor this code so that this expression does not always evaluate to true.(¿ÚØÕ
+njavascript:S2589§"LRefactor this code so that this expression does not always evaluate to true.(ƒ®Û½şÿÿÿÿ
+javascript:S2692›("bThis check ignores index 0; consider using 'includes' method to make this check safe and explicit.(›ñ§
+^javascript:S2814,"CRename "S2" as this name is already used in declaration at line 42.(ÿöš
+djavascript:UnusedVariableê4"9Remove the declaration of the unused 'instance' variable.(ÕºƒËıÿÿÿÿ
+]javascript:UnusedVariable£"7Remove the declaration of the unused '$label' variable.(º²ğ™
+cjavascript:UnusedVariable"8Remove the declaration of the unused 'matches' variable.(Öçé‡ûÿÿÿÿ
+Vjavascript:S1854£"9Remove this useless assignment to local variable "$label"(º²ğ™
+]javascript:S1854ê4";Remove this useless assignment to local variable "instance"(ÕºƒËıÿÿÿÿ
